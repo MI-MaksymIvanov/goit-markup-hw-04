@@ -126,6 +126,7 @@ background;
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
@@ -198,6 +199,17 @@ background;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+.main-section-two-icon-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
 }
 
 .main-section-two-title {
