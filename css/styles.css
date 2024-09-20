@@ -278,6 +278,7 @@ a {
 }
 
 .main-section-three-social-list {
+  margin-top: 8px;
   display: flex;
   justify-content: center;
   gap: 24px;
