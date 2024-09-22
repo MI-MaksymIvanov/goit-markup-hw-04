@@ -416,7 +416,7 @@ a {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.main-section-four-image-container:hover .main-section-four-overlay-text {
+.main-section-four-items:hover .main-section-four-overlay-text {
   transform: translateY(0%);
 }
 
